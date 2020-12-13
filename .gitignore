@@ -2,6 +2,7 @@
 *.sublime-workspace
 .tag*
 .tern-project
+.idea
 
 ### OSX ###
 .DS_Store
