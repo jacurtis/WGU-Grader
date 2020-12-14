@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "wgu-grader",
+    "name": "WGU Grader",
     "version": "0.1",
     "description": "Makes it easier to see what grade you got on assessments by showing a percentage and grade letter",
     "icons": {
@@ -20,5 +20,5 @@
         }
     ],
     "offline_enabled": true,
-    "permissions": ["https://my.wgu.edu/coaching-report/*", "activeTab"]
+    "permissions": ["https://my.wgu.edu/coaching-report/*"]
 }
